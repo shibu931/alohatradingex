@@ -43,7 +43,7 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    /* height: 70px; */
+    height: 70px; 
 }
 
 .nav-logo {
